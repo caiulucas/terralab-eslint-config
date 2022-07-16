@@ -23,7 +23,7 @@ yarn add -D eslint terralab-eslint-config
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "extends": terralab-eslint-config/react"
+  "extends": "terralab-eslint-config/react"
 }
 ```
 
